@@ -1,0 +1,51 @@
+{
+    "name": "discord-js-v13-template",
+    "version": "2.0.0",
+    "description": "A Discord bot template using discord.js v13 and Javascript.",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "node ."
+    },
+    "dependencies": {
+        "@discordjs/rest": "^1.1.0",
+        "canvas": "^2.9.1",
+        "chalk": "^4.1.2",
+        "child_process": "^1.0.2",
+        "discord-xp": "^1.1.16",
+        "discord.js": "^14.7.1",
+        "dotenv": "^16.0.0",
+        "enmap": "^5.9.2",
+        "express": "^4.17.2",
+        "fs": "^0.0.2",
+        "mal-scraper": "^2.11.4",
+        "moment": "^2.29.3",
+        "moment-duration-format": "^2.3.2",
+        "moment-timezone": "^0.5.33",
+        "mongodb": "^4.10.0",
+        "mongoose": "^6.6.2",
+        "mongoose-paginate-v2": "^1.7.1",
+        "ms-pt-br": "^2.1.4",
+        "mysqli": "^3.1.4",
+        "node-fetch": "^3.0.0",
+        "node-schedule": "^2.1.0",
+        "parse-ms-2": "^1.0.0",
+        "petitio": "^1.4.0",
+        "superagent": "^8.0.0",
+        "wikipedia": "^1.1.9"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Munz1211/DISCORD-JS-V13-TEMPLATE.git"
+    },
+    "keywords": [
+        "discord js template v13",
+        "discord template v13"
+    ],
+    "author": "Munz1211",
+    "license": "GPL-3.0",
+    "bugs": {
+        "url": "https://github.com/Munz1211/DISCORD-JS-V13-TEMPLATE/issues"
+    },
+    "homepage": "https://github.com/Munz1211/DISCORD-JS-V13-TEMPLATE#readme"
+}
